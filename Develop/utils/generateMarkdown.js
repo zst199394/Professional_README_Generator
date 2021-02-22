@@ -40,7 +40,7 @@ function generateMarkdown(answers) {
   ${answers.usage}
 
   ## Licence
-  This project is licensed under the ${answers.licence} 
+ ${answers.licence} 
   
   ## Contributing
   ${answers.contributing}
@@ -51,7 +51,7 @@ function generateMarkdown(answers) {
 
   
   ## Reach Me 
-  ${answers.email}
+  - [Email address:${answers.email}](${answers.email})
 `;
 }
 
