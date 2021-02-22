@@ -38,15 +38,17 @@ function generateMarkdown(answers) {
 
   ## Usage
   ${answers.usage}
+
   ## Licence
   This project is licensed under the ${answers.licence} 
+  
   ## Contributing
   ${answers.contributing}
-  ## Test
-  ${answers.test}
+
 
   ## GitHub
   - [GitHub Profile]('http://github.com/${answers.username}')
+  http://github.com/${answers.username}
   
   ## Reach Me 
   ${answers.email}
