@@ -5,7 +5,7 @@
 
   ## Description
 
-  Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.My web page : https://zst199394.github.io/My_calendar_scheduler_web/
+  Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.My web page :     https://zst199394.github.io/My_calendar_scheduler_web/
 
   ## Table of contents
   - [Description](#Description)
@@ -24,16 +24,16 @@
   This application will help an developer with a busy schedule to create a daily planner so they can add important events and todo lists to manage their time effectively.
 
   ## Licence
- ![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)  
+ ![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)   
   
   ## Contributing
   [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
-  [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
-  Developer : Shuting Zhao
+  [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)  
+       Developer : Shuting Zhao
 
 
   ## GitHub
-  My Github Username : 'zst199394'
+  My Github Username : zst199394
   - [GitHub Profile](http://github.com/zst199394)
 
   
