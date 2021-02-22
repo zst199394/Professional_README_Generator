@@ -54,7 +54,7 @@ inquirer
  .prompt(questions)
  .then((answers) =>{
      fs.writeFile('newREADME.md',generateMarkdown(answers),(err)=>
-     err ? console.logg(err) : console.log('Successfully create README_example.md !')
+     err ? console.logg(err) : console.log('Successfully create ---newREADME.md--- !')
      );
 
  });
