@@ -1,5 +1,5 @@
 
-  # **My_calendar_scheduler_web**
+  # ** My_calendar_scheduler_web**
 
   https://github.com/zst199394/My_calendar_scheduler_web
 
@@ -18,19 +18,22 @@
   - [GitHub Info](#GitHub) 
 
   ## Installation
-   Use a library like Moment.js to work with dates and times. Moment.js has historically been the most popular date/time library but is no longer supported by its developers. However, you can still use it for this project, or you can look into one of the following alternatives: *Lucon *Day.js *date-fns *js-JODA
+   Use a library like Moment.js to work with dates and times. Moment.js has historically been the most popular date/time library but is no longer supported by its developers. However, you can still use it for this project, or you can look into one of the following alternatives: 1.Lucon 2.Day.js 3.date-fns 4.js-JODA.
 
   ## Usage
-  usage info :******
+  The usage----
+
   ## Licence
   This project is licensed under the MIT 
+  
   ## Contributing
-  Developer:Shuting Zhao
-  ## Test
-  undefined
+  Shuting Zhao
+
 
   ## GitHub
-  - [GitHub Profile]('http://github.com/zst199394')
+  http://github.com/zst199394
+  
+
   
   ## Reach Me 
   zst9394@outlook.com
