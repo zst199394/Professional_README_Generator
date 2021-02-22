@@ -53,7 +53,7 @@ const questions = [
 inquirer
  .prompt(questions)
  .then((answers) =>{
-     fs.writeFile('README_example.md',generateMarkdown(answers),(err)=>
+     fs.writeFile('newREADME.md',generateMarkdown(answers),(err)=>
      err ? console.logg(err) : console.log('Successfully create README_example.md !')
      );
 
