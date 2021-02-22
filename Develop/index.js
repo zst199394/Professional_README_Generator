@@ -32,7 +32,7 @@ const questions = [
     {
         type: 'input',
         name: 'licence',
-        message: 'What is the  project licence?',
+        message: 'What is the  project license?',
     },
     {
         type: 'input',
