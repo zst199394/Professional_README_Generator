@@ -15,7 +15,7 @@
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
   return `
-  # **${data.title}**
+  # **${answers.title}**
 
   ${answers.badge}
 
