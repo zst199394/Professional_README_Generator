@@ -43,11 +43,13 @@ function generateMarkdown(answers) {
  ${answers.licence} 
   
   ## Contributing
+  [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+  [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
   ${answers.contributing}
 
 
   ## GitHub
-  My Github Username : ${answers.username}
+  My Github Username : '${answers.username}'
   - [GitHub Profile](http://github.com/${answers.username})
 
   
