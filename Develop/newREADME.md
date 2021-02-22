@@ -1,11 +1,11 @@
 
-  # **My_calendar_scheduler_web**
+  # **My_calendar_scheduler_web Third-Party APIs: Work Day Scheduler**
 
-  https://github.com/zst199394/My_calendar_scheduler_web
+  [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) ![GitHub license](https://img.shields.io/badge/Made%20by-%40zst199394-orange) https://github.com/zst199394/My_calendar_scheduler_web
 
   ## Description
 
-  Inthis project,I will Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.my web page : https://zst199394.github.io/My_calendar_scheduler_web/
+  Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.My web page : https://zst199394.github.io/My_calendar_scheduler_web/
 
   ## Table of contents
   - [Description](#Description)
@@ -18,13 +18,13 @@
   - [GitHub Info](#GitHub) 
 
   ## Installation
-   The installation instructions: Use a library like Moment.js to work with dates and times. Moment.js has historically been the most popular date/time library but is no longer supported by its developers. However, you can still use it for this project, or you can look into one of the following alternatives:   1.Lucon   2.Day.js   3.date-fns   4.js-JODA.
+   The installation instructions: Use a library like Moment.js to work with dates and times. Moment.js has historically been the most popular date/time library but is no longer supported by its developers. However, you can still use it for this project, or you can look into one of the following alternatives: * [Luxon](https://moment.github.io/luxon/) * [Day.js](https://day.js.org/) * [date-fns](https://date-fns.org/) * [js-Joda](https://js-joda.github.io/js-joda/)
 
   ## Usage
-  -----usage-------
+   This application will help an developer with a busy schedule to create a daily planner so they can add important events and todo lists to manage their time effectively.
 
   ## Licence
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+ [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)] 
   
   ## Contributing
   Developer: Shu-ting Zhao
