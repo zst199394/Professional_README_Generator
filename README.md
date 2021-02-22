@@ -1,4 +1,4 @@
-# Project title: Professional_README_Generator
+# Professional_README_Generator
 
 ## Project Overview:
 Create a command-line application that dynamically generates a professional README.md file from a user's input.
