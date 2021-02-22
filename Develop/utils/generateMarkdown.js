@@ -51,7 +51,7 @@ function generateMarkdown(answers) {
 
   
   ## Reach Me 
-  - [Email address:${answers.email}](${answers.email})
+  - [${answers.email}](${answers.email})
 `;
 }
 
