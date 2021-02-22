@@ -47,8 +47,9 @@ function generateMarkdown(answers) {
 
 
   ## GitHub
-  - [GitHub Profile]('http://github.com/${answers.username}')
-  http://github.com/${answers.username}
+  
+  - [GitHub Profile](http://github.com/${answers.username})
+
   
   ## Reach Me 
   ${answers.email}
